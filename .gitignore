@@ -1,0 +1,6 @@
+# Ignore list
+# File extensions in this list will be ignored
+
+*.bak
+bin/*
+.so
